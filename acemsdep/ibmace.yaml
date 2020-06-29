@@ -23,7 +23,7 @@ spec:
           - ace11002mqc91ms2
         from:
           kind: ImageStreamTag
-          namespace: da-build-project
+          namespace: da-build-project-dev
           name: 'ace11002mqc91ms2:latest'
   replicas: 1
   selector:
